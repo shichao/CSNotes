@@ -1,2 +1,2 @@
-1. [C#](csharp.md)
-2. [Computer Software](computerSoftware.md)
+1. [C#](CSharp/Readme.md)
+2. [Computer Software](ComputerScience/Readme.md)
